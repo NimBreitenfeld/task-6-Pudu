@@ -1,17 +1,19 @@
 % Pudu
 % Nim Breitenfeld and Chris Bishop
-% 19 July, 2016
+% 25 July, 2016
 
 # Pudu?
 
-```
-pandoc -t revealjs --template=template-index.html -s --variable theme="black" --variable transition="slide" --variable revealjs-url="./" YOUR-MARKDOWN-FILENAME.md -o YOUR-HTML-FILENAME.html
-what is it
-all the cute pictures
-```
+![alt text](https://s-media-cache-ak0.pinimg.com/736x/23/46/6b/23466b31ce7213f8c6fa65049d568349.jpg "PuduFawn") 
+
+## Tree climbing deer
+![alt text](https://en.wikipedia.org/wiki/Pud%C3%BA#/media/File:Southern_Pudu,_Edinburgh_Zoo.jpg "PuduAdult")
+
+## Chilean mountain goat
+![alt text](https://c2.staticflickr.com/4/3567/3361928297_d6d5945ee6.jpg)
 
 <aside class="notes">
-Every top level markdown header in this file will be translated into a "section" in your HTML5 output. This output will be plain, using only the base reveal.js style. The command above, mutatis mutandis, will let you do the conversion.
+The Pudu is the world's smallest deer: weghing in at no more than 26 poungs and 17 inches tall at the shoulder. They climb tree branches and stumps in order to eat leaves and shrubbery. Found in the mountains of Chile, South America, they are often reffered to as Chilean montain goats. 
 </aside>
 
 # Behaviors
@@ -28,11 +30,10 @@ Every top level markdown header in this file will be translated into a "section"
 To add audio, you have to add the data-audio-src attribute and specify a path to the associated audio file in your HTML file, as shown on the screen. Using this technique, you should only add the audio after you have written your presentation in the form of the file that we converted to make this presentation. That input file uses markdown with embedded "aside" tags with notes as the class. 
 </aside>
 
-# Danger danger!
+# Threats to the Pudu!
 
-```
-explain threats and conservation status
-```
+Bad parenting
+
 
 <aside class="notes">
 Reveal is very powerful, so try exploring some of its features, but be careful not to make any changes that you can't roll back. In other words, make a change, use git to add, commit, and push. Then test. If you don't like the change, you can always roll it back. If you do this, then you will be able to fix things easily if you break something by reverting your last commit. If you are testing locally, you don't have to push your changes. Just commit them. You will still be able to roll them back using the git revert command.

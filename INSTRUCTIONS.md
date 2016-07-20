@@ -41,7 +41,7 @@ I have taken the liberty of creating a template for you to make translating this
 
 All you need to do is run Pandoc, as follows, on your markdown source file, once it is finished. 
 
-`pandoc -t revealjs --template=template-index.html -s --variable theme="black" --variable transition="slide" --variable revealjs-url="./" YOUR-MARKDOWN-FILENAME.md -o index.html`
+'pandoc -t revealjs --template=template-index.html -s --variable theme="black" --variable transition="slide" --variable revealjs-url="./" PuduPresentation.md -o PuduPresentation.html'
 
 This will give you the HTML5 you can work with in polishing your presentation. 
 
