@@ -6,10 +6,10 @@
 
 ![alt text](https://s-media-cache-ak0.pinimg.com/736x/23/46/6b/23466b31ce7213f8c6fa65049d568349.jpg "PudúFawn") 
 
-## Tree climbing deer
+# Tree climbing deer
 ![alt text](https://en.wikipedia.org/wiki/Pud%C3%BA#/media/File:Southern_Pudú,_Edinburgh_Zoo.jpg "PudúAdult")
 
-## Chilean mountain goat
+# Chilean mountain goat
 ![alt text](http://40.media.tumblr.com/30f5f5446c35f6d37882503626ba97da/tumblr_ngajkkrauW1sqmphzo5_540.jpg"PudúGif")
 
 <aside class="notes">
@@ -58,7 +58,7 @@ Nahuel Huapi National Park
 Since 2009 both the Northern and Southern Pudú are listed as endangered on the International Union for Conservation of Nature (ICUN) Red List. Pudús are being bred in captivity to reduce their infant mortality and are later released into Argentina's national park. This is fairly tricky to do since pudús are difficult to transport because they are easily overheated and stressed. The good to this is that pudús are protected in these and other national parks which are required to enforce the protection of the deer. 
 </aside>
 
-## Global Efforts
+# Global Efforts
 
 World Wildlife Fund
 Wildlife Conservation Society
